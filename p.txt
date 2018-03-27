@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 hi pui hoe r youi
 bye puli anything wrong 
 call me back 
+=======
+hi pui hoe r you 
+hope your doing good 
+all the best 
+>>>>>>> 23bea9729cd4b213a48353767412e259eb801b52
