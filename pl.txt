@@ -2,12 +2,8 @@ jjjjjjjjjjjjjjjjjjjjjjjjjjjj
 kkkkkkkkkkkkkkkkkkkkkkkkkkk
 llllllllllllllllllllllllllll
 mmmmmmmmmmmmmmmmmmmmmmmmmmmm
-<<<<<<< HEAD
 kkkkkkkkkkkkkkkkkkkkkkkkkkkk
 lllllllllllllllllllllllllll
-iiiiiiiiiiiiiiiiiiiiiiiiiii
-money money 
-
-=======
+iiiiiiiiiiiiiiiiiiiiiiiiiiii
+money money
 raja raja 
->>>>>>> 134deb5d0a6ba265b31d2f3a353bdbd304bf7eea
